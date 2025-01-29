@@ -23,21 +23,23 @@ Enter answers to the questions just below the >Answer: prompt.
 1. What are your previous experiences with data analytics, R, and Git? Include both formal and informal training.
 
 > Answer: 
+  In college, my Econometrics class briefly used R, which I found intuitive due to my coding background, though we primarily relied on STATA. For data analytics, I used tools like Excel and Python in economics, computer science courses, and a banking internship. I have some exposure to Git but lack a deep understanding of its functionality. 
 
 2. Are there any components of the course about which you feel confident?
 
 > Answer: 
+  I am confident in crude R coding. I see it as a mix of logic, willingness to solve problem, and some mathematical intuition. 
 
 3. Are there any components of the course about which you feel apprehensive?
 
 > Answer: 
-
+  In our first lab, a professor remarked, 'I know R, but do I really know R?' That made me reflect, as I feel apprehensive about whether I’ll truly understand R, Git, and GitHub.
 
 ## 2) GitHub
 
 Provide a link below to your forked course repository in GitHub. Make sure you have pulled all recent changes from the course repository and that you have updated your course README file, committed those changes, and pushed them to your GitHub account. 
 
-> Answer: 
+> Answer: https://github.com/darpanbarua1/EDE_Fall2024
 
 ## 3) Knitting
 When you have completed this document, click the `knit` button.This should produce a PDF copy of your markdown document. Submit this PDF to Canvas 
